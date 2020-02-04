@@ -21,8 +21,8 @@ from sklearn.utils import shuffle
 import models
 from sklearn.model_selection import train_test_split
 
-path = r'C:\Users\User\Desktop\Research\heart_het\dataset'
-path2 = r'C:\Users\User\Desktop\Research\heart_het\processed'
+path = r'dataset'
+path2 = r'processed'
 label_path = r'C:\Users\User\Desktop\Research\heart_het'
 
 #input_image dimensions
